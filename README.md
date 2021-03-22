@@ -26,9 +26,11 @@ This is the general info page. Please check all the information, the projects, t
 
 - Managing Group Meeting and Sync Progress;
 
-- **ALARMING ON DEADLINES**
+- Recruting New Members;
 
-  **Members**:
+- **ALARMING ON DEADLINES;**
+
+  **Members**:高玮东 刘泉 刘子凡 杨浩文 
 
 ### AP-Group
 
@@ -38,7 +40,7 @@ This is the general info page. Please check all the information, the projects, t
 
 - Proposing Training Projects;
 
-  **Members**:
+  **Members**: 吴宸浩 张泽银 杨苏培 叶崇杰 漆小楠 柯舒麒
 
 ### SysOps-Group
 
@@ -46,7 +48,7 @@ This is the general info page. Please check all the information, the projects, t
 
 - Exploring New Confirguation and Its Performance;
 
-  **Members**: 
+  **Members**: 吴宣辰 谢皓天 葛波罗
 
 
 
