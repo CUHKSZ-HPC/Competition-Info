@@ -71,3 +71,7 @@ Est Deadline: 4.24
 ### Presto
 
 Est Deadline: 4.24
+
+## Minutes of the meeting
+
+[2021.4.16](https://docs.google.com/document/d/16EJ4yq3MRabPoKRFKOS0Jx3FYLiOKlh5h_P3vN-b-Gk/edit)
