@@ -44,7 +44,9 @@ This is the general info page. Please check all the information, the projects, t
 
 ### SysOps-Group
 
-- Mangaing System Configurations and Related Documents;
+- Mangaing Cluster System Configurations and Related Documents;
+
+- Mangaing team website at GitHub Pages;
 
 - Exploring New Confirguation and Its Performance;
 
@@ -52,11 +54,12 @@ This is the general info page. Please check all the information, the projects, t
 
 
 
-## Developing-Grouping
+## Schedule
 
 Please Finish The Documenting and Repo managing. 
+Each group should present documentation or repo on 4.24, regardless of group internal progress.
 
-### HPC/...
+### Benchmark
 
 Est Deadline: 4.24
 
@@ -72,6 +75,7 @@ Est Deadline: 4.24
 
 Est Deadline: 4.24
 
-## Minutes of the meeting
+## Research on incoming Competition
+[Parallel Application Challenge (PAC):](http://www.pac-hpc.com/)
 
-[2021.4.16](https://docs.google.com/document/d/16EJ4yq3MRabPoKRFKOS0Jx3FYLiOKlh5h_P3vN-b-Gk/edit)
+<u>(info including PAC schedule and procedure should be updated here)</u>
