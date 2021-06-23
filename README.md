@@ -75,18 +75,38 @@ Est Deadline: 4.24
 
 Est Deadline: 4.24 -->
 
-## Research on incoming Competition
+## Incoming Competition
 
 ### PAC
 
-[PAC2021赛程文件](http://www.paratera-edu.org.cn/Page/2021-04-27/2021%E5%85%A8%E5%9B%BD%E5%B9%B6%E8%A1%8C%E5%BA%94%E7%94%A8%E6%8C%91%E6%88%98%E8%B5%9B%20%20%E7%AB%9E%E8%B5%9B%E8%A7%84%E7%A8%8B737c24b8cc254e97893019a8abd3b62d.pdf)
+[PAC2021赛程](http://www.paratera-edu.org.cn/enterstep/index?id=1)
 
-Official website: http://www.pac-hpc.com/
+[PAC往年赛题与赛程](http://www.pac-hpc.com/index.php?m=content&c=index&a=lists&catid=84)
 
-<b>DDL for sign up</b>: 2021/06/30 23:59
+[Official website](http://www.pac-hpc.com/)
 
-<b>Primial</b> ddl: 2021/08/10 23:59
+<b>Sign up ddl</b>: 2021/06/30 23:59
 
-<b>Final</b>: 10.21 during HPC China Conference
+<b>Primial ddl</b>: 2021/08/10 23:59
 
-<b>Group</b>: 1-4 undergraduate students, 1-2 instructors
+<b>Final ddl</b>: 2021/10/18 23:59
+
+<b>Group</b>: 1-4 participants, 1-2 instructors
+
+### CPC
+
+[CPC2021初赛赛题](http://www.paratera-edu.org.cn/Page/2021-06-18/CPC2021%E5%88%9D%E8%B5%9B%E8%B5%9B%E9%A2%982bee7c8e7a9543aa841205732ffab290.pdf)
+
+[CPC2021赛程](http://www.paratera-edu.org.cn/enterstep/index?id=2)
+
+[CPC往年赛题与赛程](http://www.hpc-cpc.com/index.php?s=/index/NEWS/name/NEWS/typeid/5)
+
+[Official website](http://www.hpc-cpc.com/)
+
+<b>Sign up ddl</b>: 2021/07/06 23:59
+
+<b>Primial ddl</b>: 2021/07/25 23:59
+
+<b>Final ddl</b>: 2021/09/23 23:59
+
+<b>Group</b>: 1-4 participants, 1 instructors
